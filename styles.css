@@ -434,6 +434,8 @@ body {
     position: absolute;
     right: 21%;
     top: 485%;
+    align-items: center;
+
 
 }
 
@@ -459,6 +461,15 @@ body {
     border-radius: 9px;
     justify-content: end;
 
+}
+.info {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.info img{
+width: 60%;
 }
 
 .info h1 {
