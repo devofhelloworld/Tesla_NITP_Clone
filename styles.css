@@ -1,0 +1,651 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.logo img {
+
+    border-radius: 50%;
+    width: 19%;
+    position: absolute;
+    top: 0.6%;
+
+
+}
+
+header {
+
+    display: flex;
+    background-image: url("DALL·E\ 2025-02-17\ 22.12.03\ -\ A\ futuristic\ website\ banner\ with\ a\ black\ background.\ The\ word\ \'TESLA\'\ is\ prominently\ displayed\ in\ the\ center\ in\ a\ bold\,\ high-tech\ font\ with\ a\ glowing\ .jpeg");
+    height: 33rem;
+    background-size: cover;
+
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: black;
+}
+
+.heading .key {
+    color: rgb(215, 53, 53);
+    text-align: center;
+    height: 10rem;
+
+    padding: 5rem;
+    box-sizing: border-box;
+    font-size: 5rem;
+
+}
+
+.key1 {
+
+    color: white;
+    text-align: center;
+}
+
+.key2 {
+
+    color: skyblue;
+    text-align: center;
+    font-size: 4rem;
+
+
+}
+
+.navigation ul {
+    display: flex;
+    gap: 3.8rem;
+    list-style: none;
+    position: absolute;
+    left: 55%;
+    top: 2%;
+
+}
+
+.navigation a {
+
+    text-decoration: none;
+    color: rgb(130, 182, 238);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.navigation a:hover {
+
+    color: white;
+
+}
+
+.grid {
+    padding: 7%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.grid h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.grid p {
+
+    color: grey;
+    font-size: 1rem;
+}
+
+.box {
+
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+    box-sizing: border-box;
+    gap: 3rem;
+
+}
+
+.box1 {
+    display: grid;
+    height: 20vh;
+    width: 14vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+
+}
+
+
+
+.box2 {
+
+    display: grid;
+    height: 20vh;
+    width: 14vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+}
+
+.box3 {
+
+    display: grid;
+    height: 20vh;
+    width: 14vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+}
+
+.box4 {
+
+    display: grid;
+    height: 20vh;
+    width: 14vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+}
+
+.grid1 {
+    padding: 7%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.grid1 h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.grid1 p {
+
+    color: grey;
+    font-size: 1rem;
+}
+
+.bix {
+
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+    box-sizing: border-box;
+    gap: 3rem;
+
+}
+
+
+.bix1 {
+    display: grid;
+    height: 50vh;
+    width: 24vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+
+}
+
+.bix1 h1 {
+
+    font-size: 20px;
+}
+
+.bix1 p {
+
+    font-size: 14px;
+}
+
+.bix2 p {
+
+    font-size: 14px;
+}
+
+.bix3 p {
+
+    font-size: 14px;
+}
+
+.bix2 {
+    display: grid;
+    height: 50vh;
+    width: 24vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+
+}
+
+.bix2 h1 {
+
+    font-size: 20px;
+}
+
+.bix3 {
+    display: grid;
+    height: 50vh;
+    width: 24vw;
+    background-color: rgb(30, 28, 28);
+    border-radius: 8px;
+    border: solid skyblue 1px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+
+
+
+}
+
+.bix3 h1 {
+
+    font-size: 20px;
+}
+
+.bix img {
+
+    border-radius: 5px;
+}
+
+
+
+.footer {
+    display: grid;
+    padding: 6%;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(41, 39, 39);
+}
+
+.second {
+    display: flex;
+    gap: 1rem;
+    box-sizing: border-box;
+    position: absolute;
+    left: 6.5%;
+    top: 409%;
+
+}
+
+.text p {
+    position: absolute;
+    top: 401%;
+    color: white;
+}
+
+.grid3 {
+
+    display: flex;
+    gap: 5rem;
+}
+
+.first {
+
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.line1 {
+
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    width: 20vw;
+
+}
+
+.line1 h1 {
+    color: white;
+    font-size: 1.6rem;
+}
+
+.line1 a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: grey;
+
+}
+
+.line1 a:hover {
+
+    color: violet;
+
+}
+
+.line2 a:hover {
+
+    color: violet;
+
+}
+
+.line2 {
+
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    width: 20vw;
+
+}
+
+.line2 h1 {
+    color: white;
+    font-size: 1.6rem;
+}
+
+.line2 a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: grey;
+
+}
+
+.line3 {
+
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    width: 20vw;
+
+}
+
+.line3 h1 {
+    font-size: 1.6rem;
+    color: white;
+}
+
+.line3 p {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+
+}
+
+.sm {
+    position: absolute;
+    top: 567%;
+    gap: 10px;
+
+
+}
+
+.sm img {
+    gap: 2rem;
+}
+
+.pi {
+
+    display: flex;
+    justify-content: center;
+}
+
+.pibox {
+
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    height: 40vh;
+    width: 40vw;
+    background-color: rgb(49, 49, 80);
+    border-radius: 9px;
+
+
+}
+
+.piimg img {
+    border-radius: 60%;
+    position: absolute;
+    right: 21%;
+    top: 485%;
+
+}
+
+.pi {
+
+    box-sizing: border-box;
+    padding: 10%;
+}
+
+.pibox h1 {
+    text-align: center;
+    color: rgb(55, 83, 241);
+}
+
+.pibox1 {
+
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    height: 40vh;
+    width: 30vw;
+    background-color: rgb(49, 49, 80);
+    border-radius: 9px;
+    justify-content: end;
+
+}
+
+.info h1 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+.info h3 {
+    text-align: center;
+    font-size: 13px;
+}
+
+.pibox p {
+    color: white;
+}
+
+.last {
+    display: flex;
+    justify-content: center;
+    gap: 29rem;
+    box-sizing: border-box;
+    padding: 3%;
+    height: 5%;
+}
+
+.last1 {
+    color: white;
+}
+
+.last2 {
+    color: white;
+}
+
+.last2 p:hover {
+
+    color: pink;
+}
+
+.last1 p:hover {
+
+    color: pink;
+}
+
+.partners h1 {
+    color: white;
+}
+
+.partners h2 {
+    color: white;
+}
+
+.partners h4 {
+    color: grey;
+}
+
+.partners {
+
+    padding: 7%;
+    box-sizing: border-box;
+}
+
+.partners h2:hover {
+    color: rgb(169, 107, 227);
+
+}
+
+.partners a {
+
+    text-decoration: none;
+
+}
+
+.part {
+    box-sizing: border-box;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    margin: 0;
+}
+
+.part1 {
+
+    height: 40vh;
+    width: 30vw;
+    background-color: black;
+    text-align: center;
+
+
+}
+
+.part1 h3 {
+
+    color: white;
+
+
+
+
+}
+
+.part1 h4 {
+
+
+    color: dodgerblue;
+}
+
+.part2 h3 {
+
+    color: white;
+
+
+
+
+}
+
+.part2 h4 {
+
+
+    color: dodgerblue;
+}
+
+.part3 h3 {
+
+    color: white;
+
+
+
+
+}
+
+.part3 h4 {
+
+
+    color: dodgerblue;
+}
+
+.part2 {
+
+    height: 40vh;
+    width: 30vw;
+    background-color: black;
+    text-align: center;
+
+
+}
+
+.part2 img {
+
+    border-radius: 5%;
+    width: 300px;
+    border: solid skyblue 1px;
+
+
+}
+
+.part1 img {
+
+    border-radius: 5%;
+    width: 300px;
+    border: solid skyblue 1px;
+
+
+}
+
+.part3 img {
+
+    border-radius: 5%;
+    height: 150px;
+    width: 300px;
+    border: solid skyblue 2px;
+
+
+}
+
+.part3 {
+
+    height: 40vh;
+    width: 30vw;
+    background-color: black;
+    text-align: center;
+
+
+}
